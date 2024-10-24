@@ -1,0 +1,9 @@
+- 👋 Hola, soy @renz0dev
+- 👀 Estoy interesado en desarrollo de software, paginas web, diseño y edicion de imagenes o videos ...
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web ...
+- ⚡ Fun fact: Soy una persona curiosa y un poco competitiva ...
+
+<!---
+renz0dev/renz0dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
