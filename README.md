@@ -2,15 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/50/1d/49/501d49dc37935dc5c1fa42a676f785de.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renz0dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="250" src="https://i.pinimg.com/originals/50/1d/49/501d49dc37935dc5c1fa42a676f785de.gif"  />
 
 ###
 
@@ -47,6 +39,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renz0dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="right">
   <a href="https://open.spotify.com/user/5gd0cyinkykq2xctauqb2uk20">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5gd0cyinkykq2xctauqb2uk20&count=5&unique=true" alt="Spotify recently played"  />
   </a>
